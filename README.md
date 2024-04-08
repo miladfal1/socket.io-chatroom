@@ -1,2 +1,2 @@
-# socket.io-chatroom
-Chat room developed with express.js and socket.it
+# Yoohoo-chatroom
+A simple chatroom using nodeJS , express , socket-io
